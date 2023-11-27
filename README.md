@@ -1,10 +1,10 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=50&pause=10000&color=2DA2B6&center=true&width=600&height=100&lines=Nicolas Frache" alt="Nicolas Frache" /></a></h1>
 
 ### Bonjour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
+<!--
 <a href="#"><img src="https://github.com/Silvio-Br/Silvio-Br/blob/4138523ae2725b3893df140f5f0c0af1c1309eb5/images/silvio.png" align="right" height="275" /></a>
 </br>
-
+--->
 
 ## <img src="https://img.icons8.com/emoji/344/memo-emoji.png" width="30px">  Qui suis-je ?
 
@@ -13,7 +13,7 @@ Master informatique en jeu-vidéo réalisé en double diplôme à l'Université 
 Diplomé d'un DUT Informatique obtenu à l'IUT Nancy-Charlemagne. 
 
 
-- **Projet en cours** : Chef de projet et développeur dans la conception d'une application web pour l'association [Welfarm](https://welfarm.fr/). Le prototype est [consultatble ici](https://plansdurgences.tnservices.fr/)
+- **Projet en cours** : Chef de projet et développeur dans la conception d'une application web pour l'association [Welfarm](https://welfarm.fr/). Le prototype est [consultable ici](https://plansdurgences.tnservices.fr/)
 - **Centres d'intérêts** : Escalade, astronautique, astrophysique
 - **Technologies favorites** : Java, SvelteJS, Python, PlantUML 
 - **Principaux collaborateurs** : [Silvio](https://github.com/Silvio-Br), [Anthony](https://github.com/Antho57), [Remi](https://github.com/RemRem57), [Théo](https://github.com/im-elie)
