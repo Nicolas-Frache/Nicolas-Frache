@@ -61,3 +61,10 @@ Diplomé d'un DUT Informatique obtenu à l'IUT Nancy-Charlemagne.
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />  
 </details>
+
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Nicolas-Frache/Nicolas-Frache/blob/main/bg.png?raw=true');]{x0000}$}
+```
+
+
