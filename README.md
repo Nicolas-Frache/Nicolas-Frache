@@ -55,13 +55,13 @@ Diplomé d'un DUT Informatique obtenu à l'IUT Nancy-Charlemagne.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nicolas-Frache&label=Vues%20du%20profil&color=c691e9&style=flat&" alt="count view" />
 </p>
-
+<!--
 <details>
   <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /></summary>
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />  
 </details>
-
+--->
 
 
 
